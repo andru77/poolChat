@@ -2,6 +2,11 @@
 
 A new Flutter application.
 
+<<<<<<< HEAD
+=======
+![](assets/img/missandei.jpg)
+
+>>>>>>> 98bf10f9b81fa315bfe9f80edd81d7bd468e6dcc
 ## Getting Started
 
 This project is a starting point for a Flutter application.
